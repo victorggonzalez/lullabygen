@@ -20,7 +20,7 @@ Welcome to the **AI-Powered Lullaby Generator**! This app uses cutting-edge AI t
 1. Clone this repository:
    ```bash
    git clone https://github.com/victorggonzalez/lullabygen.git
-   cd lullaby-generator
+   cd lullabygen
    ```
 2. Install the required dependencies:
    ```bash
@@ -32,7 +32,7 @@ Welcome to the **AI-Powered Lullaby Generator**! This app uses cutting-edge AI t
    ```
 4. Run the app:
    ```bash
-    streamlit run lullabygen/my_app.py
+    streamlit run app.py
     ```
 
 ## Example Output 📜
