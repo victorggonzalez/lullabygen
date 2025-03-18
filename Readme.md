@@ -19,9 +19,9 @@ Welcome to the **AI-Powered Lullaby Generator**! This app uses cutting-edge AI t
 ## Installation 🚀
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/lullaby-generator.git
-   ```
+   git clone https://github.com/victorggonzalez/lullabygen.git
    cd lullaby-generator
+   ```
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
